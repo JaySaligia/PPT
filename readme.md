@@ -1,4 +1,4 @@
-# ALC 2023 Findings
+# ACL2023 Findings
 
 # Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion
 
