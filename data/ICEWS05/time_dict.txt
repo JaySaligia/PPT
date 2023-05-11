@@ -1,0 +1,26 @@
+-1:[SHT] At the beginning
+0:[SHT] on the same day
+1:[SHT] on the next day
+2:[SHT] on the day after that
+3:[SHT] during the week
+7:[SHT] after one week
+14:[SHT] after two weeks
+31:[SHT] after one month
+60:[SHT] after two months
+90:[MID] after three months
+120:[MID] after four months
+150:[MID] after five months
+180:[MID] after half a year
+210:[MID] after seven months
+240:[MID] after eight months
+270:[MID] after nine months
+300:[MID] after ten months
+330:[MID] after eleven months
+365:[LNG] after one year
+545:[LNG] one and a half years later
+730:[LNG] after two years
+1095:[LNG] after three years
+1460:[LNG] after four years
+1825:[LNG] after five years
+2190:[LNG] after above five years
+3650:[LNG] after ten years
