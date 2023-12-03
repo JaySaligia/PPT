@@ -55,6 +55,43 @@ def get_id_dict(file_path):
             name_id[name] = idx
     return id_name, name_id
 
+def get_id_dict_rel(file_path, file_path_v, num_rel):
+    id_name = {}
+    name_id = {}
+    with open(file_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip().replace('\n', '')
+            seq = line.split('\t')
+            if len(seq) > 1:
+                name = seq[0]
+                idx = int(seq[1])
+            else:
+                raw = seq[0]
+                # 取出raw中的数字
+                idx = int(''.join(filter(str.isdigit, raw)))
+                # 替换raw中的数字为空
+                name = raw.replace(str(idx), '')
+                name = name.strip()
+            id_name[idx] = name
+            name_id[name] = idx
+    with open(file_path_v, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip().replace('\n', '')
+            seq = line.split('\t')
+            if len(seq) > 1:
+                name = seq[0]
+                idx = int(seq[1])
+            else:
+                raw = seq[0]
+                # 取出raw中的数字
+                idx = int(''.join(filter(str.isdigit, raw)))
+                # 替换raw中的数字为空
+                name = raw.replace(str(idx), '')
+                name = name.strip()
+            id_name[idx+num_rel] = name
+            name_id[name] = idx+num_rel
+    return id_name, name_id
+
 def sort_and_rank(score, target):
     _, indices = torch.sort(score, dim=1, descending=True)
     indices = torch.nonzero(indices == target.view(-1, 1))
@@ -78,3 +115,23 @@ def calc_mrr_count(score, labels, hits=[]):
         hitsCount = [torch.sum((ranks <= i).float()).item() for i in hits]
         return mrrCount, hitsCount
 
+def filter_score(test_triples, score, all_ans):
+    if all_ans is None:
+        return score
+    test_triples = test_triples.cpu()
+    for _, triple in enumerate(test_triples):
+        h, r, t, no_use = triple
+        ans = list(all_ans[h.item()][r.item()])
+        ans.remove(t.item())
+        ans = torch.LongTensor(ans)
+        score[_][ans] = -10000000  #
+    return score
+def calc_mrr_count_filter(score, labels, quads, hits=[], all_ans={}):
+    with torch.no_grad():
+        score = filter_score(quads, score, all_ans)
+        ranks = sort_and_rank(score, labels)
+        ranks += 1
+        mrrWoMean = 1.0 / ranks.float()
+        mrrCount = torch.sum(mrrWoMean).item()
+        hitsCount = [torch.sum((ranks <= i).float()).item() for i in hits]
+        return mrrCount, hitsCount

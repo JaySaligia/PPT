@@ -72,6 +72,15 @@ class MakeData:
         self.dataTrain[:, 3] = self.dataTrain[:, 3] // stamp
         self.dataValid[:, 3] = self.dataValid[:, 3] // stamp
         self.dataTest[:, 3] = self.dataTest[:, 3] // stamp
+        self.dataTrain_ = self.dataTrain[:, [2, 1, 0, 3]]
+        self.dataTrain_[:, 1] = self.dataTrain_[:, 1] + self.numRel
+        self.dataValid_ = self.dataValid[:, [2, 1, 0, 3]]
+        self.dataValid_[:, 1] = self.dataValid_[:, 1] + self.numRel
+        self.dataTest_ = self.dataTest[:, [2, 1, 0, 3]]
+        self.dataTest_[:, 1] = self.dataTest_[:, 1] + self.numRel
+        self.dataTrain = torch.cat((self.dataTrain, self.dataTrain_), dim=0)
+        self.dataValid = torch.cat((self.dataValid, self.dataValid_), dim=0)
+        self.dataTest = torch.cat((self.dataTest, self.dataTest_), dim=0)
 
     def get_time_dict(self):
         with open('./data/{}/time_dict.txt'.format(self.dataset), 'r') as f:
@@ -356,7 +365,6 @@ D = DatasetFromMe(dataset)
 id_entity, entity_id = D.get_entity_by_id()
 entity_num = len(entity_id)
 md = MakeData(dataset, max_sample, rand_flag)
-
 
 # train
 def train(pre_epochs):

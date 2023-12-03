@@ -1,0 +1,256 @@
+Be made a statement about by    0
+Be made an appeal or request for by 1
+Be used conventional military force in by   2
+Be rallied opposition against by	3
+Be demanded by	4
+Be arrested, detained, or charged with legal action by	5
+Be criticized or denounced on by	6
+Be engaged in a symbolic act with by	7
+Be praised or endorsed by	8
+Be expelled or deported individuals of by	9
+Be considered a policy option on by	10
+Be appealed for change in leadership of by	11
+Be expressed an intent to engage in diplomatic cooperation (such as policy support) with by	12
+Be protested violently, rioted in by	13
+Be used tactics of violent repression against by	14
+Be expressed an intent to meet or negotiate with by	15
+Be appealed for policy change with by	16
+Be engaged in diplomatic cooperation on by	17
+Be appealed for de-escalation of military engagement to by	18
+Be demonstrated or rallied to by	19
+Be accused by	20
+Be demonstrated military or police power in by	21
+Be threatened by	22
+Be shared intelligence or information with by	23
+Be expelled or withdrawn by	24
+Be signed a formal agreement on by	25
+Be expressed an intent to settle dispute with by	26
+Be appealed for diplomatic cooperation (such as policy support) with by	27
+Be used unconventional violence against by	28
+Be investigated by	29
+Be eased administrative sanctions for by	30
+Be hosted a visit to by	31
+Be made a visit to by	32
+Be killed by physical assault from by	33
+Be imposed administrative sanctions on by	34
+Be expressed an intent to cooperate economically with by	35
+Be physically assaulted to by	36
+Be returned or released persons or property of by	37
+Be sexually assaulted to by	38
+Be made an empathetic comment on by	39
+Be fought with small arms and light weapons against by	40
+Be expressed an intent to cooperate with by	41
+Be mobilized or increased police power to by	42
+Be provided humanitarian aid to by	43
+Be carried out a suicide bombing to by	44
+Be employed aerial weapons to by	45
+Be mobilized or increased armed forces of by	46
+Be consulted by	47
+Be occupied territory from by	48
+Be reduced or broke diplomatic relations with by	49
+Be reduced relations with by	50
+Be denied responsibility to by	51
+Be rejected by	52
+Be abducted, hijacked, or taken hostage by	53
+Be used as a human shield of by	54
+Be imposed embargo, boycott, or sanctions on by	55
+Be conducted a hunger strike to by	56
+Be appealed for aid to by	57
+Be expressed an intent to ease administrative sanctions to by	58
+Be defied norms, law of by	59
+Be appealed to others to meet or negotiate with by	60
+Be cooperated militarily with by	61
+Be expressed an intent to provide humanitarian aid to by	62
+Be engaged in judicial cooperation with by	63
+Be expressed an intent to provide military aid to by	64
+Be acceded to demands for change in institutions, regime of by	65
+Be brought a lawsuit against by	66
+Be appealed for military aid to by	67
+Be appealed for release of persons or property of by	68
+Be received deployment of peacekeepers with by	69
+Be provided military protection or peacekeeping to by	70
+Be demanded meeting, negotiation with by	71
+Be demanded economic aid to by	72
+Be expressed an intent to engage in material cooperation with by	73
+Be demanded intelligence cooperation with by	74
+Be cooperated economically with by	75
+Be expressed an intent to provide economic aid to by	76
+Be acknowledged or claimed responsibility to by	77
+Be appealed to engage in or accept mediation of by	78
+Be assassinated by	79
+Be retreated or surrendered militarily from by	80
+Be rejected plan, agreement to settle dispute with by	81
+Be appealed for economic aid to by	82
+Be appealed for change in institutions, regime of by	83
+Be expressed an intent to provide military protection or peacekeeping to by	84
+Be demobilized armed forces to by	85
+Be forgiven by	86
+Be declared truce, ceasefire with by	87
+Be granted asylum to by	88
+Be acceded to demands for change in leadership with by	89
+Be given an ultimatum to by	90
+Be threatened with sanctions, boycott, embargo to by	91
+Be conducted suicide, car, or other non-military bombing to by	92
+Be accused of espionage, treason to by	93
+Be appealed for easing of administrative sanctions to by	94
+Be refused to yield by	95
+Be imposed restrictions on political freedoms to by	96
+Be declined comment on by	97
+Be demonstrated for leadership change of by	98
+Be accused of crime, corruption to by	99
+Be increased military alert status in by	100
+Be imposed state of emergency or martial law in by	101
+Be accused of human rights abuses to by	102
+Be reduced or stopped military assistance to by	103
+Be demanded change in leadership with by	104
+Be reduced or stopped humanitarian assistance to by	105
+Be investigated crime, corruption to by	106
+Be refused to release persons or property of by	107
+Be expressed an intent to cooperate on judicial matters with by	108
+Be threatened non-force to by	109
+Be demanded de-escalation of military engagement to by	110
+Be imposed blockade, restrict movement to by	111
+Be demanded release of persons or property of by	112
+Be apologized to by	113
+Be appealed to others to settle dispute of by	114
+Be rejected material cooperation with by	115
+Be increased police alert status in by	116
+Be demanded that target yields to by	117
+Be refused to ease administrative sanctions to by	118
+Be rejected request for policy change in by	119
+Be demanded rights to by	120
+Be appealed for economic cooperation with by	121
+Be expressed an intent to change institutions, regime of by	122
+Be demanded material cooperation with by	123
+Be appealed for material cooperation with by	124
+Be halted negotiations with by	125
+Be threatened to reduce or break relations with by	126
+Be expressed an intent to de-escalate military engagement with by	127
+Be acceded to requests or demands for political reform to by	128
+Be mediated by	129
+Be expressed an intent to ease economic sanctions, boycott, or embargo to by	130
+Be acceded to demands for change in policy of by	131
+Be expressed an intent to institute political reform to by	132
+Be destroyed property of by	133
+Be threatened with restrictions on political freedoms to by	134
+Be eased military blockade to by	135
+Be banned political parties or politicians of by	136
+Be appealed to yield from by	137
+Be acceded to demands for rights from by	138
+Be appealed for easing of economic sanctions, boycott, or embargo to by	139
+Be engaged in mass killings to by	140
+Be demanded settling of dispute to by	141
+Be engaged in violent protest for leadership change of by	142
+Be threatened to ban political parties or politicians of by	143
+Be expressed an intent to accept mediation to by	144
+Be eased economic sanctions, boycott, embargo to by	145
+Be demanded judicial cooperation with by	146
+Be threatened with political dissent, protest to by	147
+Be appealed for target to allow international involvement (non-mediation) to by	148
+Be threatened with administrative sanctions to by	149
+Be conducted hunger strike for leadership change of by	150
+Be demanded easing of administrative sanctions to by	151
+Be accused of war crimes to by	152
+Be expressed an intent to yield by	153
+Be expressed an intent to mediate to by	154
+Be engaged in violent protest for policy change of by	155
+Be demanded change in institutions, regime of by	156
+Be demanded mediation to by	157
+Be appealed for humanitarian aid to by	158
+Be appealed for political reform to by	159
+Be expressed an intent to change policy of by	160
+Be rejected mediation to by	161
+Be attempted to assassinate by	162
+Be imposed curfew in by	163
+Be rejected judicial cooperation with by	164
+Be used chemical, biological, or radiological weapons against by	165
+Be expelled or withdrawn peacekeepers from by	166
+Be investigated human rights abuses to by	167
+Be threatened to halt negotiations with by	168
+Be demonstrated for policy change of by	169
+Be rejected military cooperation with by	170
+Be rejected request for economic aid to by	171
+Be investigated military action to by	172
+Be refused to ease economic sanctions, boycott, or embargo to by	173
+Be demanded humanitarian aid to by	174
+Be detonated nuclear weapons in by	175
+Be demanded political reform to by	176
+Be refused to de-escalate military engagement with by	177
+Be demanded rights to by	178
+Be expressed an intent to cooperate on intelligence with by	179
+Be demanded policy change of by	180
+Be appealed for military protection or peacekeeping to by	181
+Be engaged in political dissent to by	182
+Be rejected request for change in leadership of by	183
+Be appealed for military cooperation with by	184
+Be used weapons of mass destruction against by	185
+Be vetoed by	186
+Be eased political dissent in by	187
+Be halted mediation to by	188
+Be eased restrictions on political freedoms to by	189
+Be rejected request for humanitarian aid to by	190
+Be carried out car bombing to by	191
+Be refused to ease popular dissent in by	192
+Be investigated war crimes of by	193
+Be eased ban on political parties or politicians of by	194
+Be rejected economic cooperation with by	195
+Be rejected request or demand for material aid to by	196
+Be appealed for easing of political dissent in by	197
+Be rejected request for rights from by	198
+Be conducted strike or boycott for leadership change of by	199
+Be found guilty or liable (legally) of by	200
+Be refused to allow international involvement (non-mediation) to by	201
+Be demanded military aid to by	202
+Be received inspectors from by	203
+Be rejected request for change in institutions, regime of by	204
+Be demanded economic cooperation with by	205
+Be engaged in mass expulsion to by	206
+Be obstructed passage to demand policy change of by	207
+Be obstructed passage to demand leadership change of by	208
+Be eased state of emergency or martial law in by	209
+Be threatened to impose state of emergency or martial law in by	210
+Be expressed an intent to allow international involvement (non-mediation) to by	211
+Be demanded material aid to by	212
+Be demanded easing of political dissent in by	213
+Be eased curfew in by	214
+Be threatened to halt mediation with by	215
+Be conducted strike or boycott for policy change of by	216
+Be demanded easing of economic sanctions, boycott, or embargo to by	217
+Be demanded release of persons or property of by	218
+Be demanded change in institutions, regime of by	219
+Be demanded mediation to by	220
+Be appealed for humanitarian aid to by	221
+Be appealed for political reform to by	222
+Be expressed an intent to change policy of by	223
+Be rejected mediation to by	224
+Be attempted to assassinate by	225
+Be imposed curfew in by	226
+Be used chemical, biological, or radiological weapons against by	227
+Be expelled or withdrawn peacekeepers from by	228
+Be investigated human rights abuses to by	229
+Be threatened to halt negotiations with by	230
+Be demonstrated for policy change of by	231
+Be rejected military cooperation with by	232
+Be rejected request for economic aid to by	233
+Be investigated military action to by	234
+Be refused to ease economic sanctions, boycott, or embargo to by	235
+Be demanded humanitarian aid to by	236
+Be conducted detonate nuclear weapons in by	237
+Be demanded political reform to by	238
+Be refused to de-escalate military engagement with by	239
+Be demanded rights to by	240
+Be expressed an intent to cooperate on intelligence with by	241
+Be demanded policy change of by	242
+Be appealed for military protection or peacekeeping to by	243
+Be engaged in political dissent to by	244
+Be rejected request for change in leadership of by	245
+Be appealed for military cooperation with by	246
+Be used weapons of mass destruction against by	247
+Be vetoed by	248
+Be eased political dissent in by	249
+Be halted mediation to by	250
+Be eased restrictions on political freedoms to by	251
+Be rejected request for humanitarian aid to by	252
+Be carried out car bombing to by	253
+Be refused to ease popular dissent in by	254
+Be investigated war crimes of by    255
